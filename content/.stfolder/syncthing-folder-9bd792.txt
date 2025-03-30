@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: obsidian-dnd
+created: 2025-03-29T12:27:33+03:00
