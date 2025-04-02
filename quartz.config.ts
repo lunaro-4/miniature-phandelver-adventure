@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ru-RU",
-    baseUrl: "lunaro-personal.ru",
+    baseUrl: "lunaro-4.github.io/miniature-phandelver-adventure/",
     ignorePatterns: ["private", "templates", ".obsidian", "tba"],
     defaultDateType: "modified",
     theme: {
