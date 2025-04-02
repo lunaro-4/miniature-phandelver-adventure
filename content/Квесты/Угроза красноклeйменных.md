@@ -1,5 +1,5 @@
 ---
-{"tags":["quest"],"Статус":"Выполнен","publish":true,"PassFrontmatter":true,"created":"2025-04-02T15:12:45.424+03:00","updated":"2025-04-02T16:03:41.964+03:00"}
+{"tags":["quest"],"Статус":"Выполнен","publish":true,"PassFrontmatter":true,"created":"2025-04-02T16:03:41.964+03:00","updated":"2025-04-02T16:03:41.964+03:00"}
 ---
 
 # Угроза красноклeйменных

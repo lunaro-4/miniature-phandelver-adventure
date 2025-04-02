@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["site"],"PassFrontmatter":true,"created":"2025-04-02T17:53:31.906+03:00","updated":"2025-04-02T17:56:11.900+03:00"}
+{"publish":true,"tags":["site"],"PassFrontmatter":true,"created":"2025-04-02T17:56:11.900+03:00","updated":"2025-04-02T17:56:11.900+03:00"}
 ---
 
 # {{title}}

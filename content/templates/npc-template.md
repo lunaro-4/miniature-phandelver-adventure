@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["npc"],"PassFrontmatter":true,"created":"2025-04-02T16:49:41.410+03:00","updated":"2025-04-02T17:56:24.114+03:00"}
+{"publish":true,"tags":["npc"],"PassFrontmatter":true,"created":"2025-04-02T17:56:24.114+03:00","updated":"2025-04-02T17:56:24.114+03:00"}
 ---
 
 # Описание
